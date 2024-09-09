@@ -1,0 +1,35 @@
+h1{
+    border: solid black 5px;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgba(128, 128, 128, 0.66);
+}
+
+.main{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.list-will{
+    list-style-type: none;
+}
+
+.list-leo{
+    list-style-type: none;
+}
+
+.list-woolf{
+    list-style-type: none;
+}
+
+footer{
+    border: solid black ;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+}
